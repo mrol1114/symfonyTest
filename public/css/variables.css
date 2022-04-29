@@ -1,0 +1,9 @@
+:root {
+    --font-family-header: 'Montserrat', sans-serif;
+    --font-family-desc: 'Roboto Condensed', sans-serif;
+    --color-highlighting: #ee58B6;
+    --color-background: #fff;
+    --color-block: #000;
+    --color-button: #05090c;
+    --color-plain-text: rgba(0, 0, 0, 0.7);
+}

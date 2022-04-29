@@ -1,7 +1,6 @@
-controllers:
-    resource: ../src/Controller/
-    type: annotation
-
-kernel:
-    resource: ../src/Kernel.php
-    type: annotation
+save_survey:
+    path: /save-survey
+    controller: App\Controller\SurveyController::saveSurvey
+print_survey:
+    path: /print-survey
+    controller: App\Controller\SurveyController::printSurvey
